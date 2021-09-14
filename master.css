@@ -1,0 +1,95 @@
+body{
+	margin: 0 auto;
+}
+header{
+	background: #2c3e50;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-right: 30px;
+	padding-left: 30px;
+	display:flex; 
+	justify-content: space-between; 
+}
+.logo{
+display: flex;
+align-items: center;
+}
+.logo-img{
+	margin-right: 15px;
+}
+.logo-title{
+	color: white;
+	font-size: 42px;
+	font-weight: bold;
+}
+.hor-menu ul li{
+	list-style-type: none;
+	float: left;
+	padding: 15px 0px;
+	color: #fff;
+}
+.hor-menu ul li a{
+	color:  #6F8CA7;
+	text-decoration: none;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	padding-left: 15px;
+	padding-right: 15px;
+	opacity: 0.5;
+
+}
+.hor-menu ul li a:hover {
+	 transition:all 0.5s; 
+	 opacity: 1.5;
+}
+.wrapper{
+	max-width: 1200px;
+	margin: 0;
+	padding-bottom: 50px;
+	display: flex;
+}
+.content{
+	max-width: 860px;
+	min-width: 360px;
+	padding: 20px;
+	background: white;
+}
+.images{
+	width: 30%;
+	margin: 0 40px 40px;
+	margin-top: 20px;
+	border: 4px black; /* Параметры границы */
+    background: #CCCCCC; /* Цвет фона */
+    padding: 15px;
+	
+}
+.title a{
+	color:  #6F8CA7;
+	text-decoration: none;
+}
+.blockOne{
+	display: flex; /*выравниваю все блоки*/
+}
+.blockTwo{
+	display: flex;
+}
+
+.blockThree{
+	display: flex;
+}
+
+.blockFour{
+	display: flex;
+}
+
+.blockFive{
+	display: flex;
+}
+.text{
+margin-top: 10px;
+}
+
+aside{
+	width: 10%;
+	color: #CCCCCC;
+}
