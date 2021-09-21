@@ -1,10 +1,12 @@
 <!DOCTYPE html>
 <head>
 	<link  rel="stylesheet" href="master.css">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 	
 </head>
 
 <body>
+	Verification: 410e66d6550df969<
 <header>
 		 <div class="logo">
 		 <img src="images\Logo.png" class="logo-img">
